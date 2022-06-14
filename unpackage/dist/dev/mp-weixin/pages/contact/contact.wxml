@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="https://cdn.seovx.com/ha/?mom=302"></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：18384362623（点击拨打）</view><view>联系地址：成都武侯区</view></view><map class="map" scale="{{scale}}" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}"></map></view>
